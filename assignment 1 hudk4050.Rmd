@@ -1,0 +1,28 @@
+---
+title: "Assignment 1 hudk"
+author: "Danny Shan"
+date: "9/17/2020"
+output: html_document
+---
+
+## Assignment 1
+
+[My Github Profile](https://github.com/dannyshan20) 
+
+## My goals for HUDK4050
+* Improving my programming skills
+* Get knowledge about coding
+* Proficient of Rstuido
+
+## Video Review
+It’s perfect for me, so I don’t have any comments
+
+| Skill | Socre |
+|------:|:------|
+| Coding|   5   |
+| Good  |  Good |
+
+## This is how I am feeling about the Semester
+
+![My feelings](smile.png)
+
